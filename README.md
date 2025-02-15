@@ -2,15 +2,15 @@
 This Augmented Reality (AR) filter was developed for [Company Name] to enhance brand engagement and create an interactive advertising experience. Designed to captivate users on platforms like Instagram and Snapchat, this filter incorporates [face tracking, special effects, animations, and brand elements] to promote the company's products/services in a fun and immersive way.
 
 ✨ Features
-✅ Branded Elements – Incorporates [Company Name]’s logo, colors, and theme.
+✅ Branded Elements – Incorporates [Inventrom Private Limited- Bolt IoT]’s logo, colors, and theme.
 ✅ Interactive Effects – Users can engage with dynamic AR animations.
 ✅ Cross-Platform Compatibility – Optimized for Instagram, Snapchat, or TikTok.
 ✅ Seamless User Experience – Lightweight and responsive design for smooth performance.
 
 📌 Technologies Used
-Spark AR Studio / Lens Studio (or other AR development tools)
-JavaScript / Patch Editor for interactivity
-3D Assets & Textures (if applicable)
+Spark AR Studio 
+Patch Editor for interactivity
+3D Assets & Textures 
 🚀 How It Works
 Users apply the filter on social media.
 Engaging AR effects overlay their camera feed.
